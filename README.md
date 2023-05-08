@@ -1,0 +1,5 @@
+# JavaProyect
+Steps for the implementation of the proyect.
+
+For this project we start by organizing the packets as requested and we implement the code then we review everything
+we have done although we find certain errors in some lines
